@@ -16,15 +16,21 @@ h1 {
     margin-bottom: 10px;
 }
 img {
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 35px;
 }
 p {
     font-size: 24px;
     color: #ccc;
     margin-top: 10px;
+}
+hr {
+    width: 80%;
+    margin: 20px 0;
+    border: 1px solid #444;
 }
 #usd-euro {
     color: #007bff;
