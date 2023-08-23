@@ -41,3 +41,10 @@ hr {
 #bitcoin-usd {
     color: #ff9800;
 }
+
+#cargando{
+    visibility: hidden;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
